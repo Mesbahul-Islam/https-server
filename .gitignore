@@ -455,6 +455,7 @@ Temporary Items
 
 # Built Visual Studio Code Extensions
 *.vsix
+.vscode
 
 
 decipherserver.jar
